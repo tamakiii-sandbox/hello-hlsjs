@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/tamakiii-sandbox/hello-hlsjs/issues"
   },
-  "homepage": "https://github.com/tamakiii-sandbox/hello-hlsjs#readme"
+  "homepage": "https://github.com/tamakiii-sandbox/hello-hlsjs#readme",
+  "dependencies": {
+    "hls.js": "^1.0.7"
+  }
 }
